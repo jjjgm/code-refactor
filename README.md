@@ -13,10 +13,13 @@ I substited all div elements with structured semantic elements. I then changed t
 
 (https://jjjgm.github.io/code-refactor/)
 
-
 ## License
 
 N/A - refer to REPO for license info
+
+**Note**
+
+Had some assitance from Shawn when terminal issues arised as I would try to stage and push the code to the repository, as well as joined the Discord study group.
 
 ## Assets
 
